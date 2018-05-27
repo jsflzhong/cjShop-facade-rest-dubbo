@@ -2,7 +2,8 @@ package com.cj.core.facade.service;
 
 import java.util.List;
 
-import com.cj.common.pojo.TaotaoResult;
+import com.cj.core.pojo.TaotaoResult;
+import com.cj.core.pojo.TaotaoResult;
 import com.cj.core.pojo.TbContent;
 
 public interface ContentFacade {
